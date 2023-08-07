@@ -9,12 +9,12 @@
             {
               "question": "What is a slice in Go?",
               "answer": "In Go, a slice is a data structure with three fields: a pointer to the underlying array from which the slice is created, len, which holds the current number of elements in the slice, and cap, which reflects the size of the allocated memory for the slice elements. Additionally, it is worth mentioning that, in the context of slices, we can use the built-in functions len() and cap() to get the length and capacity, respectively.",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             },
             {
               "question": "Very very complex question",
               "answer": "Correct answer here",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             }
           ]
         },
@@ -24,12 +24,12 @@
             {
               "question": "Difference between SQL and NoSQL",
               "answer": "Correct answer here",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             },
             {
               "question": "Very very complex question",
               "answer": "Correct answer here",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             }
           ]
         }
@@ -44,12 +44,12 @@
             {
               "question": "What is a slice in Go?",
               "answer": "In Go, a slice is a data structure with three fields: a pointer to the underlying array from which the slice is created, len, which holds the current number of elements in the slice, and cap, which reflects the size of the allocated memory for the slice elements. Additionally, it is worth mentioning that, in the context of slices, we can use the built-in functions len() and cap() to get the length and capacity, respectively.",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             },
             {
               "question": "Very very complex question",
               "answer": "Correct answer here",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             }
           ]
         },
@@ -59,12 +59,12 @@
             {
               "question": "Difference between SQL and NoSQL",
               "answer": "Correct answer here",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             },
             {
               "question": "Very very complex question",
               "answer": "Correct answer here",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             }
           ]
         }
@@ -79,12 +79,12 @@
             {
               "question": "What is a slice in Go?",
               "answer": "In Go, a slice is a data structure with three fields: a pointer to the underlying array from which the slice is created, len, which holds the current number of elements in the slice, and cap, which reflects the size of the allocated memory for the slice elements. Additionally, it is worth mentioning that, in the context of slices, we can use the built-in functions len() and cap() to get the length and capacity, respectively.",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             },
             {
               "question": "Very very complex question",
               "answer": "Correct answer here",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             }
           ]
         },
@@ -94,12 +94,12 @@
             {
               "question": "Difference between SQL and NoSQL",
               "answer": "Correct answer here",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             },
             {
               "question": "Very very complex question",
               "answer": "Correct answer here",
-              "mark": "Feedback"
+              "feedback": "Feedback"
             }
           ]
         }
